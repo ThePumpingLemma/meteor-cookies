@@ -1,6 +1,6 @@
 Package.describe({
   name: 'thepumpinglemma:cookies',
-  summary: 'Meteor package that wrap the cookies package from NPM. See https://github.com/expressjs/cookies for more details.',
+  summary: 'Meteor package that wrap the cookies package from NPM.',
   version: '1.0.0',
   git: 'https://github.com/ThePumpingLemma/meteor-cookies.git'
 });
