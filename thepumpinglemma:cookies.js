@@ -1,0 +1,2 @@
+Cookies = Npm.require('cookies');
+
